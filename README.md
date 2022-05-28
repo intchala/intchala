@@ -1,4 +1,4 @@
-### Hi there, I'm Salvador A. Intchala 👋
+### Hi there, I'm Salvador Augusto Intchala 👋
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play guitar.
