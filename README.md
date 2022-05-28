@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play guitar.
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/intchala">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=intchala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intchala&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=intchala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intchala&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
