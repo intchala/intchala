@@ -8,8 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intchala&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-  ---
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=intchala&theme=gotham&hide_border=true&area=true)
+  
   
   ---
   <p align="center">
