@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Salvador+Augusto+Intchala;I´m+from+Guiné-Bissau+(África);Living+in+Brazil,+Fortaleza-CE;I´m+a+Full+Stack+Developer;I’m+currently+learning+everything+...;Welcome+to+my+github+profile!.)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/intchala">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=intchala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intchala&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=intchala&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=ffb703&text_color=c9d1d9&bg_color=0d1117" alt="Salvador Intchala github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intchala&layout=compact&hide_border=true&title_color=00bfbf&text_color=ffffff&bg_color=0d1117" />
 </div>
  
   
